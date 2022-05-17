@@ -2,6 +2,7 @@
   "private": true,
   "name": "docs",
   "version": "1.0.0",
+  "homepage": "https://huabuyu1993.github.io/docs",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
