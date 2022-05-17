@@ -8,5 +8,6 @@ export default defineConfig({
   outputPath: 'docs-dist',
   mode: 'site',
   publicPath: '/docs/',
+  base:'/docs/',
   // more config: https://d.umijs.org/config
 });
