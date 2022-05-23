@@ -2,6 +2,7 @@
   "name": "docs-test",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://huabuyu1993.github.io/docs-test",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
