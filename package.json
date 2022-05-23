@@ -5,7 +5,7 @@
   "homepage": "https://huabuyu1993.github.io/docs-test",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/docs-test/",
     "preview": "vite preview"
   },
   "dependencies": {
